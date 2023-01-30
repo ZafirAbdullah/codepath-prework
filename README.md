@@ -3,7 +3,7 @@
 A UI that prompts users to input information about themseleves.
 
 # App Walk-though
-![Prework new GIF ](https://user-images.githubusercontent.com/108569152/215585225-887a5298-9747-484c-893b-e212a3eba594.gif)
+![Prework GIF ](https://user-images.githubusercontent.com/108569152/215586680-50146235-bf1f-4107-bba8-0ee7c4773505.gif)
 
 # Required Features
 1. App displays an image of a school's logo
